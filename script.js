@@ -17,7 +17,7 @@ const games = [
         name: 'Poke Run',
         img: './assets/poke-run-bg.jpg',
         description: "If you don't like pikachu you sure will after playing this adventure packed run/obstacle game!",
-        href: ''
+        href: 'https://atom545.github.io/Poke-Run/'
     },
     {
         name: 'PING PONG',
