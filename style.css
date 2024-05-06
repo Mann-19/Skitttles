@@ -37,6 +37,19 @@
     margin-top: 40px;
 }
 
+@media (max-width: 426px) {
+    .navbar{
+        flex-direction: column;
+        gap: 0px;
+        padding-top: 2rem;
+    }
+
+    .container {
+        grid-template-columns: repeat(1, 350px);
+        grid-template-rows: repeat(auto, 250px);
+    }
+}
+
 .card{
     height: 100%;
     display: flex;
